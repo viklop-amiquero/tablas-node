@@ -1,0 +1,15 @@
+{
+  "name": "03-bases-node",
+  "version": "1.0.0",
+  "description": "\u001b[A\u001b[D\u001b[B",
+  "main": "\u001b[A\u001b[A\u001b[B\u001b[A\u001b[B\u001b[B",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Viktor López",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^16.2.0"
+  },
+  "devDependencies": {}
+}
